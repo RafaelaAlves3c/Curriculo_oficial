@@ -9,17 +9,17 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family:  Helvetica, sans-serif;
   color: #444444;
 }
 
 a {
-  color: 	#FF0000;
+  color: 	#000000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00FF00;
+  color: #ff0101;
   text-decoration: none;
 }
 
@@ -133,7 +133,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: 	#FF0000;
+  color:#FF0000  ;
 }
 
 .navbar .dropdown ul {
@@ -680,7 +680,7 @@ section {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: 	#FF0000;
+  color:	#000000;
   margin-bottom: 10px;
   
 }
@@ -771,11 +771,11 @@ section {
 }
 
 .services .icon-box:hover {
-  border-color: #32CD32;
+  border-color: #000000;
 }
 
 .services .icon-box:hover .title a {
-  color: #32CD32;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -1264,7 +1264,7 @@ section {
 
 .contact .php-email-form input,
 .contact .php-email-form textarea {
-  border-radius: 0;
+  border-radius: 70;
   box-shadow: none;
   font-size: 14px;
 }
